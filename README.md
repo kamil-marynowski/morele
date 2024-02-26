@@ -23,5 +23,9 @@
 4. Zwracany są wszystkie tytuły, które składają się z więcej niż 1 słowa.
     - Nazwa: MoreThanOneWord
     - Przykładowy URL: http://localhost/morele/public/index.php?route=get_recommendations&algorithm=MoreThanOneWord
-    
+
+## Uruchamianie testów
+
+   - przejdź do folderu z projektem
+   - uruchom komendę: ``` ./vendor/bin/phpunit tests```
  
